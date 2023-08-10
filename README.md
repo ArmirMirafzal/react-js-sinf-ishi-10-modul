@@ -1,1 +1,1 @@
-# 10 module React.js sinf ishi repository
+# 10-module React.js sinf ishi repository
